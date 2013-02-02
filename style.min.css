@@ -1,0 +1,17 @@
+/* ===================================================== *
+ *
+ * Theme Name: Alku Bee
+ * Theme URI: http://demo.dronix.me/alku
+ * Description: An sample child theme for the Alku parent theme.
+ * Author: Danny Ramirez
+ * Author URI: http://dronix.me
+ * Tags: white, one-column, two-columns, fixed-width, threaded-comments, sticky-post, translation-ready, rtl-language-support, editor-style, post-formats
+ * Template: alku
+ * License: WTFPL
+ * License URI: http://www.wtfpl.net/
+ *
+ * Copyright (c) 2013 dronix.  All rights reserved.
+ * http://dronix.me
+ *
+ * ====================================================== */
+a,#branding a,#page-nav a:hover,.comments-link,.comment-edit-link:hover,.comment-reply-link:hover,.entry-title a:hover,.author a:hover,.post-edit-link:hover,.icon-quotes{ color:#d23}#branding a:hover{ color:#2b2e31}.loop-pagination a:hover,.loop-pagination .current,.loop-navigation a:hover,.comment-navigation a:hover{ background-color:#d23}.mobile-menu-container #menu-main,.mobile-menu-container #menu-main a,.mobile-menu-toggle{ background-color:#d23}.mobile-menu-container #menu-main a:hover{ background-color:#2b2e31}.mobile-menu-toggle{ border-bottom:1px solid #fff}.more-link{ background-color:#fff; color:#d23}.more-link:after{ content:"\e0cc"; font-family:'Elusive-Icons'; position:relative; top:2px; margin-left:5px}.more-link:hover{ background-color:#fff; color:#2b2e31}#page-container{ max-width:640px; max-width:64rem}#page-header{ padding-bottom:0}#branding,#page-nav{ float:none; text-align:center}#branding{ margin-bottom:40px; margin-bottom:4rem}.layout-1c .entry-header i{ display:none}
